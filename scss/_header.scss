@@ -1,0 +1,70 @@
+:root {
+    --btn-color:  #4985FF;
+    --main-color: #999999;
+}
+header{
+    width: 1518px;
+    height: 900px;
+    background-image: url(/image/Rectangle.jpg);
+    position: relative;
+}
+.menu{
+        margin-left: 732px;
+        margin-top: 40px;
+        gap: 39px;
+        color: #FFFF;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19.5px;
+        cursor: pointer;
+}
+.line{
+    width: 100px;
+    color: black;
+    top: 58px;
+    left: 710px;
+    position: absolute;
+}
+hr{
+    width: 1518px;
+    margin-top: 40px;
+    color: var(--main-color);
+}
+.header_1{
+    margin-top: 219px;
+    color: #FFFF;
+}
+.header_1 p{
+    margin-left: 700px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.5px;
+}
+.header_1 h1{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 64.36px;
+    margin-top: 20px;
+    width: 829px;
+    height: 111px;
+    margin-left: 350px;
+}
+.header_button{
+   margin-left: 670px;
+    margin-top: 50px;
+    background-color: var(--btn-color);
+    width: 200px;
+    height: 45px;
+    border-radius: 30px;
+}
+.btn-1{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 12px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.5px;
+    font-family: 'Montserrat' , sans-serif;;
+    color: #FFFF;
+}

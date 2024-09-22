@@ -1,0 +1,426 @@
+@media (max-width:1200px) {
+    header {
+        width: 1200px;
+    }
+
+    .menu {
+        margin-left: 350px;
+    }
+
+    .line {
+        left: 310px;
+    }
+
+    hr {
+        width: 1200px;
+    }
+
+    .header_1 {
+        margin-top: 219px;
+    }
+
+    .header_1 p {
+        margin-left: 550px;
+    }
+
+    .header_1 h1 {
+        text-align: center;
+        font-size: 48px;
+        font-weight: 800;
+        line-height: 64.36px;
+        margin-top: 20px;
+        width: 829px;
+        height: 111px;
+        margin-left: 200px;
+    }
+
+    .header_button {
+        margin-left: 510px;
+    }
+
+    // section_1
+    .sec_1_1 {
+        margin-left: 250px;
+    }
+
+    .sec_1_wrap img {
+        border: 1px blue solid;
+        border-radius: 50%;
+        padding: 30px;
+    }
+    
+    .sec_1_cards {
+        margin-top: 70px;
+        margin-left: 25px;
+        gap: 27px;
+    }
+    .btn-2 {
+        display: flex;
+        padding-left: 50px;
+        padding-top: 12px;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 19.5px;
+        font-family: 'Montserrat', sans-serif;
+        ;
+        color: #FFFF;
+    }
+
+    // section_2
+    .section_2 {
+        margin-top: 257px;
+        margin-left: 45px;
+
+    }
+    .line_1{
+        width: 1100px;
+    }
+    .line_2 {
+        width: 1100px;
+        margin-left: 40px;
+    }
+
+    .pro {
+        margin-top: 197px;
+        margin-left: 97px;
+        gap: 100px;
+        font-weight: 400;
+        line-height: 32.66px;
+        font-family: 'Montserrat', sans-serif;
+
+    }
+
+    .text-big {
+        font-size: 36px;
+        font-weight: 400;
+        margin-left: 20px;
+    }
+
+    .text-small {
+        margin-top: 10px;
+        color: #999999;
+    }
+
+    // section_3
+    .section_3 {
+        margin-top: 70px;
+        width: 1200px;
+        height: 490px;
+        background-color: blueviolet;
+        position: relative;
+    }
+
+    .sec_3_wrap h2 {
+        margin-left: 45px;
+    }
+
+    .sec_3_cards {
+        margin-left: 45px;
+    }
+
+    // section_4
+    .section_4 {
+        margin-top: 600px;
+        position: relative;
+    }
+
+    .sec_4_1 h2 {
+        margin-left: 470px;
+    }
+
+    .sec_4_1 p {
+        margin-left: 240px;
+    }
+
+    .card_4 {
+        margin-left: 45px;
+    }
+
+    .section4_button {
+        left: 510px;
+    }
+
+    // section_5
+    .section_5 {
+        width: 1200px;
+    }
+
+    .sec_5_1 h2 {
+        margin-left: 390px;
+    }
+
+    .sec_5_1 p {
+        margin-left: 463px;
+    }
+    .sec_5_2 img {
+        width: 1100px;
+        top: 220px;
+        left: 25px;
+    }
+    .sec_5_3 {
+        left: 470px;
+    }
+
+    .sec_5_3 img {
+        margin-left: 40px;
+    }
+
+    .sec_5_3 a {
+        left: 121px;
+    }
+
+    // section_6
+
+    .sec_6_1 h2 {
+        margin-left: 463px;
+    }
+
+    .sec_6_1 p {
+        margin-left: 390px;
+    }
+
+    .mail__form {
+        margin-left: 370px;
+    }
+
+    .sec_6_2 {
+        margin-left: 470px;
+    }
+
+    footer {
+        width: 1200px;
+    }
+
+    .footer_wrap {
+        justify-content: center;
+        gap: 100px;
+        padding-top: 70px;
+        padding-left: 1px;
+    }
+
+    .line_5 {
+        width: 1100px;
+        margin-left: 55px;
+    }
+
+    .footer_p {
+        margin-left: 130px;
+    }
+}
+
+@media (max-width:767px) {
+    header {
+        width: 767px;
+    }
+
+    .menu {
+        margin-left: 150px;
+    }
+
+    .line {
+        left: 130px;
+    }
+
+    hr {
+        width: 767px;
+    }
+
+    .header_1 p {
+        margin-left: 330px;
+    }
+
+    .header_1 h1 {
+        text-align: center;
+        font-size: 48px;
+        font-weight: 800;
+        line-height: 64.36px;
+        margin-top: 20px;
+        width: 729px;
+        height: 111px;
+        margin-left: 10px;
+    }
+
+    .header_button {
+        margin-left: 290px;
+    }
+
+
+    // section_1
+    .sec_1_1 {
+
+        margin-left: 20px;
+    }
+
+    .sec_1_1 h2 {
+        font-size: 32px;
+    }
+    .sec_1_cards{
+        flex-direction: column;
+        width: 190px;
+        margin-left: 300px;
+    }
+    .btn-2 {
+        display: flex;
+        padding-left: 50px;
+        padding-top: 12px;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 19.5px;
+        font-family: 'Montserrat', sans-serif;
+        ;
+        color: #FFFF;
+    }
+
+    // section_2
+    .section_2 {
+        margin-top: 257px;
+        margin-left: 45px;
+
+    }
+    .sec_2_wrap{
+        flex-direction: column;
+    }
+    .sec_2_2{
+        margin-left: 70px;
+    }
+    .line_1{
+        width: 650px;
+    }
+    .line_2 {
+        width: 650px;
+        margin-left: 40px;
+    }
+
+    .pro {
+        margin-top: 197px;
+        margin-left: 5px;
+        gap: 50px;
+        font-weight: 400;
+        line-height: 32.66px;
+        font-family: 'Montserrat', sans-serif;
+
+    }
+
+    .text-big {
+        font-size: 26px;
+        font-weight: 400;
+        margin-left: 20px;
+    }
+
+    // section_3
+    .section_3 {
+        margin-top: 70px;
+        width: 767px;
+        height: 490px;
+        background-color: blueviolet;
+        position: relative;
+    }
+
+    .sec_3_wrap h2 {
+        margin-left: 45px;
+        font-size: 30px;
+    }
+
+    .section_button {
+        left: 500px;
+    }
+
+    .sec_3_cards {
+        margin-left: 200px;
+        flex-direction: column;
+    }
+
+    // section_4
+    .section_4{
+        margin-top: 1550px;
+    }
+    .sec_4_1 h2 {
+        margin-left: 270px;
+    }
+
+    .sec_4_1 p {
+        margin-left: 10px;
+    }
+
+    .card_4 {
+        margin-left: 280px;
+        flex-direction: column;
+    }
+
+    .section4_button {
+        top: 1400px;
+        left: 300px;
+    }
+
+    // section_5
+    .section_5 {
+        width: 767px;
+    }
+
+    .sec_5_1 h2 {
+        margin-left: 190px;
+    }
+
+    .sec_5_1 p {
+        margin-top: 30px;
+        margin-left: 263px;
+
+    }
+
+    .sec_5_2 img {
+        width: 700px;
+        top: 320px;
+        left: 25px;
+    }
+
+    .sec_5_3 {
+        left: 250px;
+    }
+
+    .sec_5_3 img {
+        margin-left: 40px;
+    }
+
+    .sec_5_3 a {
+        left: 121px;
+    }
+
+    // section_6
+    .sec_6_1 h2 {
+        margin-left: 263px;
+    }
+
+    .sec_6_1 p {
+        margin-left: 190px;
+    }
+
+    .mail__form {
+        margin-left: 170px;
+    }
+
+    .sec_6_2 {
+        margin-left: 270px;
+    }
+
+    footer {
+        width: 767px;
+        height: 413px;
+        background-color: rgb(252, 247, 247);
+        margin-top: 85px;
+    }
+
+    .footer_wrap {
+        justify-content: center;
+        gap: 10px;
+        padding-top: 70px;
+        padding-left: 25px;
+    }
+
+    .line_5 {
+        width: 650px;
+    }
+
+    .footer_p {
+        margin-left: 70px;
+    }
+}
